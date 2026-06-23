@@ -1,0 +1,15 @@
+{
+  "globalsections": {
+    "$singleton": true,
+    "properties": {
+      "sections": {
+        "type": "array",
+        "items": {
+          "anyOf": [
+            { "$ref": "#/components/CountdownBar" }
+          ]
+        }
+      }
+    }
+  }
+}
