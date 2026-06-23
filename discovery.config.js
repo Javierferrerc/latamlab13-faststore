@@ -1,6 +1,7 @@
 module.exports = {
   contentSource: {
     type: 'CP',
+    project: 'latamlab13-faststore',
   },
   seo: {
     title: "FastStore",
