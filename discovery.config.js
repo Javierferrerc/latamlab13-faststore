@@ -31,7 +31,7 @@ module.exports = {
       code: "BRL",
       symbol: "R$",
     },
-    locale: "pt-BR",
+    locale: "es-AR",
     channel: '{"salesChannel":"1","regionId":""}',
     country: "BRA",
     deliveryMode: null,
@@ -49,11 +49,11 @@ module.exports = {
   },
 
   // Production URLs
-  storeUrl: "https://www.fast.store",
-  secureSubdomain: "https://www.fast.store/",
-  checkoutUrl: "https://www.fast.store/checkout",
-  loginUrl: "https://www.fast.store/api/io/login",
-  accountUrl: "https://www.fast.store/api/io/account",
+  storeUrl: "https://latamlab13.vtex.app",
+  secureSubdomain: "https://latamlab13.vtex.app/",
+  checkoutUrl: "https://latamlab13.vtex.app/checkout",
+  loginUrl: "https://latamlab13.vtex.app/api/io/login",
+  accountUrl: "https://latamlab13.vtex.app/api/io/account",
 
   previewRedirects: {
     home: "/",
